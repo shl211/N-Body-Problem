@@ -1,6 +1,6 @@
 # N-Body Problem
 
-This is a C++ solver that solves the N-Body Problem using a fourth-order Runge Kutta, which I wrote as part of my Computing & Numerical Methods 2 module coursework in 2023, as specified [here](#other/assignment.pdf). This was my first programming project and I obtained 92% for this aspect of the coursework.
+This is a C++ solver that solves the N-Body Problem using a fourth-order Runge Kutta, which I wrote as part of my Computing & Numerical Methods 2 module coursework in 2023, as specified [here](./other/assignment.pdf). This was my first programming project and I obtained 92% for this aspect of the coursework.
 
 ## Installation
 
